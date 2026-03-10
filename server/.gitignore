@@ -13,6 +13,8 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+package-lock.json
+
 # dotenv environment variable files
 .env
 .env.development
@@ -22,3 +24,5 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+
+.gitignore
